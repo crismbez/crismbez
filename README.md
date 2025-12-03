@@ -1,4 +1,4 @@
-##👋 hola caracola
+## hola caracola
 
 **crismbez/crismbez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
